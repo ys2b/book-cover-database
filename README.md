@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Summary
+- User takes a picture of the book cover with the camera and the app proceeds with the process
+- The user enters the book's title, author, publisher, publication date, and other information.
+- The user selects a workspace already registered in Notion.
+- The app registers the book information as data in Notion
+
 
 ## Getting Started
 
